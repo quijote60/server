@@ -4,6 +4,7 @@
     "password": "Quijote60#",
     "database": "reactExpressDB",
     "host": "127.0.0.1",
+    "socketPath": "/var/run/mysqld/mysqld.sock",
     "dialect": "mysql"
   },
   "test": {
